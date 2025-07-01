@@ -3,8 +3,8 @@
 **Universidad de las Fuerzas Armadas ESPE**  
 **Departamento de Ciencias de la Computación**  
 **Carrera:** Ingeniería en Tecnologías de la Información  
-**Docente:** Ing. Geovanny Cudco  
-**Estudiante:** Chanataxi Mateo, Donoso Christian, Tandazo Mauri
+**Docente:** Ing. Geovanny Cudco 
+**Estudiante:** Chanataxi Mateo, Donoso Christian, Tandazo Mauri  
 **Fecha de entrega:** 01 de julio de 2025  
 **Hora límite:** 16:59  
 
